@@ -49,7 +49,7 @@ const Contact = () => {
                 </div>
                 <div className="contact-detail">
                     <img src={location_icon} alt="" />
-                    <p>Ramanthapuram, TamilNadu</p>
+                    <p>Electronic City, Bangalore.</p>
                 </div>
             </div>
         </div>
