@@ -1,6 +1,6 @@
 import React from 'react';
 import './About.css';
-import about_profile from '../../assets/about_profile.svg'
+import about_profile from '../../assets/profile.png'
 import theme_pattern from '../../assets/theme_pattern.svg'
 const About = () => {
   return (
@@ -14,16 +14,18 @@ const About = () => {
                 <img src={about_profile} alt="" />
             </div>
             <div className="about-right">
-                <div className="about-para">
-                    <p>I am a tech enthusiast skilled in React, Redux, MongoDB, and Node.js, with a strong foundation in front-end technologies like HTML, CSS, and JavaScript.</p>
-                    <p>Adaptable and quick to learn, I excel in building dynamic applications. With strong communication and collaboration skills, I thrive in team environments and enjoy problem-solving.</p>
-                </div>
+                        <div className="about-para">
+                <p>I am a Full Stack Developer with expertise in C#, ASP.NET, .NET, React, MongoDB, JavaScript, MySQL, HTML5, CSS3, and Bootstrap.</p>
+                <p>Passionate about building responsive, user-friendly applications and delivering efficient solutions. I am committed to continuous learning and growth to stay updated with the latest trends in technology.</p>
+            </div>
                 <div className="about-skills">
                     <div className="about-skill"><p>HTML & CSS</p><hr style={{width:"80%"}}/></div>
                     <div className="about-skill"><p>React JS</p><hr style={{width:"70%"}}/></div>
                     <div className="about-skill"><p>Javascript</p><hr style={{width:"70%"}}/></div>
-                    <div className="about-skill"><p>Node JS</p><hr style={{width:"60%"}}/></div>
-                    <div className="about-skill"><p>Mongo DB</p><hr style={{width:"50%"}}/></div>
+                    <div className="about-skill"><p>C#</p><hr style={{width:"80%"}}/></div>
+                    <div className="about-skill"><p>ASP.NET</p><hr style={{width:"75%"}}/></div>
+                    <div className="about-skill"><p>ADO.NET</p><hr style={{width:"80%"}}/></div>
+                    <div className="about-skill"><p>My SQL</p><hr style={{width:"60%"}}/></div>
                 </div>
             </div>
         </div>

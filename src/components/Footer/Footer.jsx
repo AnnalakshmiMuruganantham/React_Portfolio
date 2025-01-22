@@ -9,8 +9,8 @@ const Footer = () => {
         <div className="footer-top">
             <div className="footer-top-left">
                 <img src={logo} alt="" />
-                <p>MERN Full Stack Developer skilled in MongoDB, Express.js, React, and Node.js. I build responsive web apps with scalable back-end systems, focused on clean code and best practices. Let's collaborate!</p>
-            </div>
+                <p>I am a .NET Full Stack Developer with expertise in C#, ASP.NET, ADO.NET, MySQL and React. I excel at developing responsive web applications with scalable back-end architectures, prioritizing clean code and industry best practices. Ready to collaborate and create impactful solutions!</p>
+                </div>
             <div className="footer-top-right">
                  <div className="footer-email-input">
                     <img src={user_icon} alt="" />
