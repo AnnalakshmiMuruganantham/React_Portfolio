@@ -37,19 +37,19 @@ const Contact = () => {
         <div className="contact-section">
         <div className="contact-left">
             <h1>Let's talk</h1>
-            <p>I'm currently available to take on new projects, so feel free to send me a message about anything that you want me to work on. You can contact anytime.</p>
+            <p>I’m happy to connect about software development opportunities, collaborations and professional discussions. Feel free to send me a message.</p>
             <div className="contact-details">
                 <div className="contact-detail">
                     <img src={mail_icon} alt="" />
-                    <p>annalakshmi.m.n@gmail.</p>
+                    <p>Use the contact form to reach me by email.</p>
                 </div>
                 <div className="contact-detail">
                     <img src={call_icon} alt="" />
-                    <p>91+ 9940889937</p>
+                    <p>+91 99408 89937</p>
                 </div>
                 <div className="contact-detail">
                     <img src={location_icon} alt="" />
-                    <p>Electronic City, Bangalore.</p>
+                    <p>Electronic City, Bengaluru.</p>
                 </div>
             </div>
         </div>

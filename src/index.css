@@ -8,3 +8,5 @@ body {
     color: white;
     font-family: 'Outfit';
 }
+html{scroll-behavior:smooth;}
+body{overflow-x:hidden;}

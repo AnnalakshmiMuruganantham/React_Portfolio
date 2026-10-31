@@ -82,3 +82,6 @@
         gap: 20px;
     }
 }
+@media(min-width:769px){
+ .nav-menu{gap:32px;font-size:18px;}
+}

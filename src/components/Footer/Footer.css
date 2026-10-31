@@ -77,3 +77,7 @@
         gap: 50px;
     }
 }
+.footer-socials{flex-direction:column;align-items:flex-start;gap:18px;}
+.footer-socials a,.footer-bottom-right a{color:#fff;text-decoration:none;}
+.footer-socials a:hover,.footer-bottom-right a:hover{color:#d49be8;}
+@media(max-width:768px){.footer-socials{align-items:flex-start;}}
